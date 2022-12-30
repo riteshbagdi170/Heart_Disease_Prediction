@@ -25,5 +25,6 @@ pip install -r requirements.txt
 
 Link:- https://riteshbagdi170-customer-churn-prediction-999.streamlit.app/
 
-![Screenshot (109)](https://user-images.githubusercontent.com/40036155/210104635-f91972b2-36fa-44cf-bf8c-1a526c839f7c.png)
-![Screenshot (110)](https://user-images.githubusercontent.com/40036155/210104638-7527a8da-d26b-4abc-a71e-ed100ed21e44.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/40036155/210104729-1df47e02-b151-47fb-99d6-562a00720ecd.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/40036155/210104730-fbaac28f-7a2f-4419-8897-25d926ecd480.png)
+
