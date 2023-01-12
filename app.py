@@ -12,7 +12,8 @@ page_bg_img = '''
 .stApp {
 background-image: url("https://wesecureapp.com/wp-content/uploads/2022/01/Tinted-Bg-5-1-%E2%80%93-24-960x604.png");;
 background-repeat: no-repeat;
-background-size: 100%;
+background-size: auto;
+
 }
 </style>
 '''
